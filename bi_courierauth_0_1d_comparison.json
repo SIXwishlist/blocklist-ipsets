@@ -1,0 +1,92 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 62352,
+		"common": 1
+	},
+	{
+		"name": "bbcan177_ms3",
+		"category": "malware",
+		"ips": 30151694,
+		"common": 1
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 16182,
+		"common": 18
+	},
+	{
+		"name": "bi_mail_0_1d",
+		"category": "attacks",
+		"ips": 1119,
+		"common": 18
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 25038,
+		"common": 6
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 6659,
+		"common": 6
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 17569,
+		"common": 6
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 278541,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 33092,
+		"common": 7
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1354,
+		"common": 4
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 163773,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 273792,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 374860,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_90d",
+		"category": "abuse",
+		"ips": 164862,
+		"common": 1
+	}
+]

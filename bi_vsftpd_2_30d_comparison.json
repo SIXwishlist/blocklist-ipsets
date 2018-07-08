@@ -1,0 +1,194 @@
+[
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 411,
+		"common": 2
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 2075,
+		"common": 40
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 277,
+		"common": 2
+	},
+	{
+		"name": "bi_ftp_1_7d",
+		"category": "attacks",
+		"ips": 5,
+		"common": 1
+	},
+	{
+		"name": "bi_ftp_2_30d",
+		"category": "attacks",
+		"ips": 45,
+		"common": 40
+	},
+	{
+		"name": "bi_proftpd_1_7d",
+		"category": "attacks",
+		"ips": 5,
+		"common": 1
+	},
+	{
+		"name": "bi_proftpd_2_30d",
+		"category": "attacks",
+		"ips": 5,
+		"common": 3
+	},
+	{
+		"name": "bi_pureftpd_1_7d",
+		"category": "attacks",
+		"ips": 2,
+		"common": 1
+	},
+	{
+		"name": "bi_pureftpd_2_30d",
+		"category": "attacks",
+		"ips": 5,
+		"common": 2
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 25038,
+		"common": 3
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 708,
+		"common": 3
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 27635,
+		"common": 3
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 126167,
+		"common": 7
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 58708,
+		"common": 6
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 30368,
+		"common": 3
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 141774,
+		"common": 7
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 68870,
+		"common": 6
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 86182797,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 34042,
+		"common": 3
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 278541,
+		"common": 7
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 33092,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227994792,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762763453,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346502987,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 138961247,
+		"common": 2
+	},
+	{
+		"name": "normshield_all_attack",
+		"category": "attacks",
+		"ips": 8512,
+		"common": 3
+	},
+	{
+		"name": "normshield_all_webscan",
+		"category": "attacks",
+		"ips": 5615,
+		"common": 2
+	},
+	{
+		"name": "normshield_high_attack",
+		"category": "attacks",
+		"ips": 8413,
+		"common": 3
+	},
+	{
+		"name": "normshield_high_webscan",
+		"category": "attacks",
+		"ips": 5449,
+		"common": 2
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 2
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 555438,
+		"common": 1
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6375029,
+		"common": 2
+	}
+]

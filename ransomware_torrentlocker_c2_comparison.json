@@ -1,0 +1,38 @@
+[
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 78764,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 638233123,
+		"common": 1
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 28695,
+		"common": 1
+	},
+	{
+		"name": "hphosts_pha",
+		"category": "reputation",
+		"ips": 2623,
+		"common": 1
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 4973,
+		"common": 1
+	},
+	{
+		"name": "ransomware_rw",
+		"category": "malware",
+		"ips": 297,
+		"common": 1
+	}
+]

@@ -1,0 +1,62 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 468,
+		"common": 7
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 86182797,
+		"common": 2
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 638233123,
+		"common": 7
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 41878,
+		"common": 3
+	},
+	{
+		"name": "hphosts_exp",
+		"category": "malware",
+		"ips": 196,
+		"common": 1
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 28695,
+		"common": 1
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 43872,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 639382183,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346502987,
+		"common": 1
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 4973,
+		"common": 1
+	}
+]
